@@ -1,0 +1,62 @@
+[
+  {
+    "source": "announcement.txt",
+    "destination": "communications/announcement.txt",
+    "reason": "Event announcement."
+  },
+  {
+    "source": "announcement_copy.txt",
+    "destination": "communications/announcement_copy.txt",
+    "reason": "Separate byte-identical announcement copy retained."
+  },
+  {
+    "source": "poster_text.txt",
+    "destination": "communications/poster_text.txt",
+    "reason": "Public-facing promotional text."
+  },
+  {
+    "source": "proposal_final.txt",
+    "destination": "planning/proposal_final.txt",
+    "reason": "Outdoor 30-minute proposal; approval unresolved."
+  },
+  {
+    "source": "proposal_final2.txt",
+    "destination": "planning/proposal_final2.txt",
+    "reason": "Differing indoor 20-minute proposal; approval unresolved."
+  },
+  {
+    "source": "rain_plan.txt",
+    "destination": "planning/rain_plan.txt",
+    "reason": "Weather contingency planning."
+  },
+  {
+    "source": "meeting_notes.txt",
+    "destination": "coordination/meeting_notes.txt",
+    "reason": "Meeting decisions still pending."
+  },
+  {
+    "source": "next_steps.txt",
+    "destination": "coordination/next_steps.txt",
+    "reason": "Follow-up planning tasks."
+  },
+  {
+    "source": "budget_draft.txt",
+    "destination": "resources/budget_draft.txt",
+    "reason": "Proposed, unapproved budget."
+  },
+  {
+    "source": "equipment_list.txt",
+    "destination": "resources/equipment_list.txt",
+    "reason": "Equipment quantities."
+  },
+  {
+    "source": "equipment_backup.txt",
+    "destination": "resources/equipment_backup.txt",
+    "reason": "Separate byte-identical equipment copy retained."
+  },
+  {
+    "source": "feedback_questions.txt",
+    "destination": "feedback/feedback_questions.txt",
+    "reason": "Participant feedback questions."
+  }
+]
